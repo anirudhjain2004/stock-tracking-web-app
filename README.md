@@ -49,7 +49,3 @@ $ streamlit run app.py
 
 
 ### Created By: Anirudh Jain
-
-### Code influenced by [Data Professor](https://www.youtube.com/channel/UCV8e2g4IWQqK71bbzGDEI4Q)
-
-https://github.com/dataprofessor/stock-app
