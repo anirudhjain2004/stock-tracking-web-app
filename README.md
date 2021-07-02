@@ -1,6 +1,8 @@
 # Stock Analysis Web Application (Basic)
 A web-application to obtain basic information about any S&P500 company and analyze it's stock using historical prices. 
 
+[Click here to check the demo Website](https://share.streamlit.io/anirudhjain2004/stock-tracking-web-app/app.py)
+
 ![Capture](https://user-images.githubusercontent.com/77311854/114436486-fe856000-9be2-11eb-9267-018a12f62cf3.PNG)
 
 
