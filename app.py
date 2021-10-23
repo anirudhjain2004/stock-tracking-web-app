@@ -30,7 +30,7 @@ comment2 = '''APP INTRO'''
 
 # App title
 st.markdown('''
-# Stock Analysis App
+# Astrapia - a stock tracking web app
 Shown are the stock price data for query companies!
 ''')
 st.write('---')
