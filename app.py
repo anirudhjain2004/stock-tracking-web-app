@@ -1,5 +1,4 @@
 '''MADE BY: ANIRUDH JAIN
-CODE CREDITS: DATA PROFESSOR (https://github.com/dataprofessor/stock-app)
 DATE: 12th April 2021
 DESCRIPTION: WEB-APP FOR STOCK ANALYSIS (S&P500 stocks)
 MAIN MODULES USED: YFINANCE AND STREAMLIT
@@ -30,7 +29,9 @@ comment2 = '''APP INTRO'''
 
 # App title
 st.markdown('''
-# Astrapia - a stock tracking web app
+# Astrapia 
+A web app to keep track of your favourite stocks
+
 Shown are the stock price data for query companies!
 ''')
 st.write('---')
